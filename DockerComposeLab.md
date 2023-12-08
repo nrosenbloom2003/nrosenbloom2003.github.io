@@ -48,3 +48,4 @@ volumes:
 5. Save the changes to the file by pressing CTRL-X, then Y, then ENTER.
 6. Next, type `docker compose up -d` to run docker compose.
 WordPress example:
+![WordPress Screenshot](https://github.com/nrosenbloom2003/nrosenbloom2003.github.io/blob/main/Screenshot%202023-12-08%20134548.png)
